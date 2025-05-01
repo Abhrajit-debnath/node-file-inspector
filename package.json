@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/abhrajitdev/file-inspector.git"
+    "url": "https://github.com/Abhrajit-debnath/node-file-inspector"
   },
   "bugs": {
-    "url": "https://github.com/abhrajitdev/file-inspector/issues"
+    "url": "https://github.com/Abhrajit-debnath/node-file-inspector/issues"
   },
-  "homepage": "https://github.com/abhrajitdev/file-inspector#readme",
+  "homepage": "https://github.com/Abhrajit-debnath/node-file-inspector#readme",
   "keywords": [
     "file-inspector",
     "file-analyzer",
