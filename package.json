@@ -1,6 +1,6 @@
 {
   "name": "node-file-inspector",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight Node.js utility to analyze files — get readable size, MIME type, and metadata with timestamps.",
   "main": "index.js",
   "type": "module",
