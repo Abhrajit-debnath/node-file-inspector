@@ -1,0 +1,32 @@
+{
+  "name": "node-file-inspector",
+  "version": "1.0.0",
+  "description": "A lightweight Node.js utility to analyze files — get readable size, MIME type, and metadata with timestamps.",
+  "main": "index.js",
+  "type": "module",
+  "author": "Abhrajit Debnath",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mime-types": "^3.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abhrajitdev/file-inspector.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abhrajitdev/file-inspector/issues"
+  },
+  "homepage": "https://github.com/abhrajitdev/file-inspector#readme",
+  "keywords": [
+    "file-inspector",
+    "file-analyzer",
+    "nodejs",
+    "mime",
+    "file-metadata",
+    "readable-size",
+    "filesystem"
+  ]
+}
