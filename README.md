@@ -24,7 +24,7 @@ npm install file-inspector
 
 ```javascript 
 
-import { getReadableSize, getMimeType, analyzeFile } from 'file-inspector';
+import { getReadableSize, getMimeType, analyzeFile } from 'node-file-inspector';
 
 const filepath = "path/to/your/file.js";
 const bytes = 2048;
